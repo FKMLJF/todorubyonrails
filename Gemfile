@@ -20,7 +20,7 @@ gem "jbuilder"
 gem 'sqlite3'
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
-gem 'bootstrap', '~> 5.1.3'
+gem 'bootstrap', '~> 5.3.3'
 gem 'jquery-rails'
 gem 'ransack'
 
